@@ -655,8 +655,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:87px;
-  height:12px;
+  width:79px;
+  height:32px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -664,7 +664,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'Helvetica';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -673,11 +673,11 @@
 #u16 {
   border-width:0px;
   position:absolute;
-  left:164px;
-  top:108px;
-  width:87px;
-  height:12px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  left:168px;
+  top:101px;
+  width:79px;
+  height:32px;
+  font-family:'Helvetica';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -688,8 +688,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:101px;
-  white-space:nowrap;
+  width:79px;
+  word-wrap:break-word;
 }
 #u17 {
   border-width:0px;
